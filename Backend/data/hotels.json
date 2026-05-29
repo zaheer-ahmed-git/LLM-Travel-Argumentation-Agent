@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hotel_001",
+    "name": "Hotel Lumiere",
+    "city": "Paris",
+    "price_per_night": 180,
+    "rating": 4.6,
+    "distance_to_station_km": 0.3,
+    "review_summary": "quiet, polished, and close to metro access",
+    "tags": ["quiet", "near_public_transport", "boutique", "comfort"]
+  },
+  {
+    "id": "hotel_002",
+    "name": "Central Budget Inn",
+    "city": "Paris",
+    "price_per_night": 120,
+    "rating": 4.0,
+    "distance_to_station_km": 0.8,
+    "review_summary": "central and affordable, but street-facing rooms can be lively",
+    "tags": ["central", "budget", "public_transport", "lively"]
+  },
+  {
+    "id": "hotel_003",
+    "name": "Seine Family Stay",
+    "city": "Paris",
+    "price_per_night": 210,
+    "rating": 4.7,
+    "distance_to_station_km": 1.2,
+    "review_summary": "spacious and quiet with stronger comfort than transit convenience",
+    "tags": ["quiet", "family_friendly", "river_view", "comfort"]
+  },
+  {
+    "id": "hotel_004",
+    "name": "Montmartre Quiet Lodge",
+    "city": "Paris",
+    "price_per_night": 150,
+    "rating": 4.3,
+    "distance_to_station_km": 0.5,
+    "review_summary": "calm, good value, and a short walk from metro stops",
+    "tags": ["quiet", "budget", "near_public_transport"]
+  }
+]

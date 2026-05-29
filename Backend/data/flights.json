@@ -1,0 +1,46 @@
+[
+  {
+    "id": "flight_001",
+    "airline": "Air France",
+    "origin": "London",
+    "destination": "Paris",
+    "departure_time": "14:00",
+    "arrival_time": "16:15",
+    "price": 220,
+    "layovers": 0,
+    "availability": true
+  },
+  {
+    "id": "flight_002",
+    "airline": "EasyJet",
+    "origin": "London",
+    "destination": "Paris",
+    "departure_time": "09:30",
+    "arrival_time": "12:45",
+    "price": 140,
+    "layovers": 1,
+    "availability": true
+  },
+  {
+    "id": "flight_003",
+    "airline": "KLM",
+    "origin": "London",
+    "destination": "Paris",
+    "departure_time": "06:10",
+    "arrival_time": "10:50",
+    "price": 170,
+    "layovers": 1,
+    "availability": true
+  },
+  {
+    "id": "flight_004",
+    "airline": "British Airways",
+    "origin": "London",
+    "destination": "Paris",
+    "departure_time": "15:20",
+    "arrival_time": "17:35",
+    "price": 260,
+    "layovers": 0,
+    "availability": true
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "dest_001",
+    "city": "Paris",
+    "country": "France",
+    "currency": "EUR",
+    "notes": "Mock Paris destination for the explainable travel recommendation demo."
+  }
+]
